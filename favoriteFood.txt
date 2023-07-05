@@ -1,1 +1,3 @@
-My name is Lina and my favorite food is mayochup. 
+name: Lina
+v-account: v-lchihoub 
+food: mayochup
